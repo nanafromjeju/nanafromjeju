@@ -15,7 +15,7 @@ I'm a Web Designer & Frontend Developer from Korea 👩🏻‍💻
 ### Experience
 
 2024.01 - 2024.02 Thewebs - Web Designer Internship <br>
-2022.02 - 2022.08 KnWorks - Kakao view DB Admin <br>
+2022.02 - 2022.08 KnWorks - Database Admin <br>
 2021.07 - 2022.01 Tips English Academy - Teacher Assistant <br>
 
 ### Contact
