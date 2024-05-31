@@ -35,5 +35,6 @@
 <h3 align="center">Contact</h3>
 
 <p align="center">
-  💌 nanafromjeju@gmail.com
+  💌 nanafromjeju@gmail.com<br>
+  https://velog.io/@nanafromjeju/posts
 </p>
