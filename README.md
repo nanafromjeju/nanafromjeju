@@ -11,9 +11,6 @@ I'm a Web Designer & Frontend Developer from Korea 👩🏻‍💻
 2024.05 - 2024.12 Fastcampus Frontend Bootcamp <br>
 2023.07 - 2024.04 Tamwood College - Web Design Program <br>
 2016.09 - 2019.08 Seattle Central College - Associate's Arts <br>
-2016.01 - 2016.04 CPI - English Language Program <br>
-2015.06 - 2015.09 AELC - English Language Program <br>
-2015.02 - 2015.06 LAL Schools - English Language Program <br>
 
 ### Experience
 
