@@ -1,6 +1,6 @@
 ## Hi, I am Nana👋
 
-I'm a Web Designer & Frontend Developer from Korea 👩🏻‍💻
+I'm a Web Designer & Frontend Developer 👩🏻‍💻
 
 ### Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -8,15 +8,15 @@ I'm a Web Designer & Frontend Developer from Korea 👩🏻‍💻
 
 ###  Education
 
-2024.05 - 2024.12 Fastcampus Frontend Bootcamp <br>
-2023.07 - 2024.04 Tamwood College - Web Design Program <br>
-2016.09 - 2019.08 Seattle Central College - Associate's Arts <br>
+2024.05 - 2024.12 Fastcampus Frontend Bootcamp 🇰🇷 <br>
+2023.07 - 2024.05 Tamwood College - Web Design Program 🇨🇦 <br>
+2016.09 - 2019.08 Seattle Central College - Associate's Arts 🇺🇸 <br>
 
 ### Experience
 
-2024.01 - 2024.02 Thewebs - Web Designer Internship <br>
-2022.02 - 2022.08 KnWorks - Database Admin <br>
-2021.07 - 2022.01 Tips English Academy - Teacher Assistant <br>
+2024.01 - 2024.02 Thewebs - Web Designer Intern 🇨🇦 <br>
+2022.02 - 2022.08 KnWorks - DB Admin 🇰🇷 <br>
+2021.07 - 2022.01 Tips English Academy - Teacher Assistant 🇰🇷 <br>
 
 ### Contact
 💌 nanafromjeju@gmail.com
