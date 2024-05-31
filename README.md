@@ -8,18 +8,18 @@ I'm a Web Designer & Frontend Developer from Korea 👩🏻‍💻
 
 ###  Education
 
-2024.05 - 2024.12 Fastcampus Frontend Bootcamp
-2023.07 - 2024.04 Tamwood College - Web Design Program
-2016.09 - 2019.08 Seattle Central College - Associate's Arts
-2016.01 - 2016.04 CPI - English Language Program
-2015.06 - 2015.09 AELC - English Language Program
-2015.02 - 2015.06 LAL Schools - English Language Program
+2024.05 - 2024.12 Fastcampus Frontend Bootcamp <br>
+2023.07 - 2024.04 Tamwood College - Web Design Program <br>
+2016.09 - 2019.08 Seattle Central College - Associate's Arts <br>
+2016.01 - 2016.04 CPI - English Language Program <br>
+2015.06 - 2015.09 AELC - English Language Program <br>
+2015.02 - 2015.06 LAL Schools - English Language Program <br>
 
 ### Experience
 
-2024.01 - 2024.02 Thewebs - Web Designer Internship
-2022.02 - 2022.08 KnWorks - DB Admin
-2021.07 - 2022.01 Tips English Academy - Teacher Assistant
+2024.01 - 2024.02 Thewebs - Web Designer Internship <br>
+2022.02 - 2022.08 KnWorks - DB Admin <br>
+2021.07 - 2022.01 Tips English Academy - Teacher Assistant <br>
 
 ### Contact
 💌 nanafromjeju@gmail.com
