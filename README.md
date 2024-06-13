@@ -38,6 +38,12 @@
   2021.07 - 2022.01 Tips English Academy - Teacher Assistant 🇰🇷 <br>
 </p>
 
+<h3 align="center">Interest</h3>
+<p align="center"> 
+🏠🧹🏊🏻‍♀️🏋🏻‍♀️🐈🎹🎥
+</p>
+
+
 <h3 align="center">Contact</h3>
 
 <p align="center">
