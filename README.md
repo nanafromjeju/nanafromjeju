@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/final cut pro-9999FF?style=for-the-badge&logo=airplayvideo&logoColor=white">
+  <img src="https://img.shields.io/badge/final cut pro-9999FF?style=for-the-badge&logo=airplayvideo&logoColor=white"><br>
   <img src="https://img.shields.io/badge/adobeaftereffects-FF9A00?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
   <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
