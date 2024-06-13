@@ -1,7 +1,7 @@
 <h2 align="center">Hi, there🐈‍⬛</h2>
 
 <p align="center">
-  I'm a Web Designer & Frontend Developer 👩🏻‍💻
+  I'm a UI Designer & Frontend Developer 👩🏻‍💻
 </p>
 
 <h3 align="center">Skills</h3>
@@ -26,7 +26,7 @@
 
 <p align="center">
   2024.05 - 2024.12 Fastcampus Frontend Bootcamp 🇰🇷 <br>
-  2023.07 - 2024.05 Tamwood College - Web Design Program 🇨🇦 <br>
+  2023.07 - 2024.05 Tamwood College - UI Design Program 🇨🇦 <br>
   2016.09 - 2019.08 Seattle Central College - Associate of Arts 🇺🇸 <br>
 </p>
 
