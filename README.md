@@ -1,4 +1,4 @@
-<h2 align="center">Hi, there🐈‍⬛</h2>
+<h2 align="center">Hi, there</h2>
 
 <p align="center">
   I'm a UI Designer & Frontend Developer 👩🏻‍💻
