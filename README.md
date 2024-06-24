@@ -14,27 +14,11 @@
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/adobeaftereffects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+  <img src="https://img.shields.io/badge/adobeaftereffects-55AD9B?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/final cut pro-9999FF?style=for-the-badge&logo=airplayvideo&logoColor=white"><br>
   <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
   <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
-</p>
-
-<h3 align="center">Education</h3>
-
-<p align="center">
-  2024.05 - 2024.12 Fastcampus Frontend Bootcamp 🇰🇷 <br>
-  2023.07 - 2024.05 Tamwood College - UI Design Program 🇨🇦 <br>
-  2016.09 - 2019.08 Seattle Central College - Associate of Arts 🇺🇸 <br>
-</p>
-
-<h3 align="center">Experience</h3>
-
-<p align="center">
-  2024.01 - 2024.02 Thewebs - Web Designer Intern 🇨🇦 <br>
-  2022.02 - 2022.08 KnWorks - DB Admin 🇰🇷 <br>
-  2021.07 - 2022.01 Tips English Academy - Teacher Assistant 🇰🇷 <br>
 </p>
 
 <h3 align="center">Contact</h3>
