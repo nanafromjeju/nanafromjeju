@@ -21,9 +21,16 @@
   <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanafromjeju&layout=compact&theme=tokyonight" width="400" height="200"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=nanafromjeju&show_icons=true&theme=tokyonight" width="400" height="200">
+</p>
+
+
 <h3 align="center">Contact</h3>
 
 <p align="center">
   💌 nanafromjeju@gmail.com<br>
-  https://velog.io/@nanafromjeju/posts
+  <a href="https://velog.io/@nanafromjeju/posts">개발일지</a>
 </p>
+
