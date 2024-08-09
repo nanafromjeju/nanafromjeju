@@ -1,7 +1,5 @@
-<h2 align="center">Hi, there</h2>
-
 <p align="center">
-  I'm a UI Designer & Frontend Developer 👩🏻‍💻
+    <a href="https://velog.io/@nanafromjeju/posts">velog</a>
 </p>
 
 <h3 align="center">Skills</h3>
@@ -25,13 +23,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanafromjeju&layout=compact&theme=tokyonight" width="400" height="200"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=nanafromjeju&show_icons=true&theme=tokyonight" width="400" height="200">
-</p>
-
-
-<h3 align="center">Contact</h3>
-
-<p align="center">
-  💌 nanafromjeju@gmail.com<br>
-  <a href="https://velog.io/@nanafromjeju/posts">개발일지</a>
 </p>
 
