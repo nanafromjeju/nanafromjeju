@@ -15,11 +15,10 @@
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/adobeaftereffects-55AD9B?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/final cut pro-9999FF?style=for-the-badge&logo=airplayvideo&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/aftereffects-55AD9B?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><br>
+  <img src="https://img.shields.io/badge/final cut pro-9999FF?style=for-the-badge&logo=airplayvideo&logoColor=white">
+  <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
 </p>
 
 <p align="center">
