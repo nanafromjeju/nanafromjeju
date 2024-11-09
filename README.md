@@ -1,6 +1,12 @@
-<p align="center">
-    <a href="https://velog.io/@nanafromjeju/posts">velog</a>
-</p>
+<div align="center">
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/nanafromjeju"
+  width="600"
+  height="300"
+/>
+</a>
+</div>
 
 <h3 align="center">Skills</h3>
 
@@ -13,16 +19,7 @@
     
 </p>
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/aftereffects-55AD9B?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><br>
-  <img src="https://img.shields.io/badge/final cut pro-9999FF?style=for-the-badge&logo=airplayvideo&logoColor=white">
-  <img src="https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanafromjeju&layout=compact&theme=tokyonight" width="400" height="200"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=nanafromjeju&show_icons=true&theme=tokyonight" width="400" height="200">
 </p>
-
