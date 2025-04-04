@@ -30,6 +30,6 @@
 
 <div align="center">
   <a href="https://github.com/marshallku/gitgarden">
-    <img src="https://gitgarden.marshallku.dev/?user_name=nanafromjeju" alt="GitGarden" width="600" height="400">
+    <img src="https://gitgarden.marshallku.dev/?user_name=nanafromjeju" alt="GitGarden">
   </a>
 </div>
