@@ -27,9 +27,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nanafromjeju&layout=compact&theme=tokyonight" width="400" height="200"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=nanafromjeju&show_icons=true&theme=tokyonight" width="400" height="200">
 </p>
-
-<div align="center">
-  <a href="https://github.com/marshallku/gitgarden">
-    <img src="https://gitgarden.marshallku.dev/?user_name=nanafromjeju" alt="GitGarden">
-  </a>
-</div>
